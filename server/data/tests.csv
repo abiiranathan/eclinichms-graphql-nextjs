@@ -1,0 +1,282 @@
+name,cost
+CBC,15000
+B/S for Mps,3000
+Blood Smear,5000
+Periperal Film,25000
+Blood grouping,12000
+Blood Cross match,3000
+ESR,45000
+RBS,5000
+FBS,5000
+C Reactive Protein,15000
+Sickling Test,8000
+Hb Electrophoresis,100000
+Hb,4000
+HBA1c,5000
+CD4 Cell Count,10000
+Bleeding Time,3000
+Clotting Time,2000
+PT,15000
+aPTT,5000
+D-Dimers,5000
+Bone Marrow Biopsy,5000
+Filariae,5000
+LEISHMANIA TEST,5000
+Urinalysis,5000
+Uristick,5000
+Gram Staining,5000
+ZN Staining,5000
+Stool analysis,5000
+Urine Culture,5000
+Blood Culture,5000
+Sputum Culture,5000
+CSF Analysis,5000
+CSF Culture,5000
+Ascitic Fluid Analysis,5000
+Ascitic Fluid Culture,5000
+Pleural Fluid Analysis,5000
+Pleural Fluid Culture,5000
+High Vaginal Swab,5000
+Urethral Swab,5000
+Semen Analysis,5000
+Urine for Schistosomiasis,5000
+Lymph Node Aspirate for ZN,5000
+Semen Culture,5000
+TOLUIDINE BLUE STAINING,5000
+Serum Creatinine,5000
+Serum Urea,5000
+Malaria RDT,5000
+Widal Test,5000
+BAT,5000
+RPR,5000
+VDRL,5000
+RCT,5000
+HBsAg,5000
+H Pylori,5000
+Serum Beta hCG,5000
+Typhoid Antigen,5000
+Typhoid IgG,5000
+Typhoid IgM,5000
+Urine LAM,5000
+Urine hCG,5000
+CSF CrAg,5000
+TPHA,5000
+HepB Viral Load,5000
+RF,5000
+AST,5000
+ALT,5000
+ALP,5000
+GGT,5000
+Albumin,5000
+Total Protein,5000
+Total Bilirubun,5000
+Direct Bilirubin,5000
+Na,5000
+K,5000
+Cl,5000
+Ca2,5000
+Mg2,5000
+Phosphorous,5000
+VLDL,5000
+LDL,5000
+HDL,5000
+TG,5000
+TChol,5000
+CEA,5000
+CK-MB,5000
+CPK(Creatinine Phosphokinase),5000
+DIRECR COOMBS TEST,5000
+INDIRECT COOMBS TEST,5000
+Lithium Level,5000
+Microglobulin,5000
+CA-125,5000
+CD4,5000
+CD8,5000
+Urinary Creatinine,5000
+24hr Urine Protein,5000
+Urea Clearance Test,5000
+Urinary Uric Acid,5000
+Serum Uric Acid,5000
+Urine Chloride,5000
+Fecal Occult Blood,5000
+Creatinine Clearance Test,5000
+CA-19,5000
+C PEPTIDE,5000
+FREE PSA,5000
+Globulins,5000
+Fibrinogen,5000
+G6PD Test,5000
+H PYLORI STOOL Ag,5000
+HSV IgG TYPE Ab,5000
+HSV IgM TYPE Ab,5000
+HBV Core Ab,5000
+HBV Core IgM Ab,5000
+HSV IgG/IgM TYPE,5000
+Hepatitis E IGG,5000
+Hepatitis E IGM,5000
+HBV DNA Viral Load,5000
+Hepatitis Envelope(Ag/Ab),5000
+Hepatitis Envelope(Ag),5000
+HBe Ag,5000
+HBc IgG/IgM,5000
+Hepatitis C Antigen,5000
+HAIN Test,5000
+BILHARZIA IgG,5000
+Drugs of Abuse Panel,5000
+Plasma PH,5000
+Serum Ketones,5000
+ABGs Panel,5000
+Quantiferon Gold TB Blood Test,5000
+SERUM FERRITIN,5000
+SERUM Vit B12,5000
+SCHISTOSOMAL ANTIBODIES,5000
+Serum Gastrin,5000
+Serum IgE,5000
+TOXO Ig G,5000
+TOXO Ig M,5000
+Troponin T Assay,5000
+ANA,5000
+REDUCING SUGAR,5000
+Anti_Mullerian Hormone_MIS,5000
+FREE T3,5000
+FREE T4,5000
+TSH,5000
+FSH,5000
+LH,5000
+Serum Amylase,5000
+Serum Lipase,5000
+Serum Calcitonin,5000
+Vitamin D Levels,5000
+Parathyroid Hormone(PTH),5000
+Testosterone Levels,5000
+ACTH PROFILE,5000
+24Hrs Urine Cortisol,5000
+Progesterone,5000
+Serum Prolactin,5000
+Serum Cortisol,5000
+Serum Estrogen,5000
+Serum Progesterone,5000
+Cytology Asparate,5000
+FNAC,5000
+IMMUNOHISTOCHEMISTRY TEST,5000
+Mantoux Test,5000
+Renal Tuberculosis(Urine Specimens),5000
+PAP Smear(Cytology),5000
+SKIN SNIP,5000
+TISSUE PROCESSING,5000
+TISSUE GLOSSING,5000
+Postmortem,5000
+Urine Cytology,5000
+Tumor histology,5000
+Frozen Section analysis,5000
+ECG,5000
+Echo,5000
+ElectroEncephalogram,5000
+Ultrasound Scan(Abdominal),30000
+Ultrasound Scan(Pelvic),30000
+Ultrasound Scan(Obstetric),30000
+Cranial Ultrasound Scan(Infants),30000
+Ultrasound Scan(Breasts),30000
+Ultrasound Scan(Scrotal),30000
+Ultrasound Scan(Thyroid),30000
+Ultrasound scan(Transvaginal),30000
+Doppler U/S Scan(Renal),30000
+Doppler U/S Scan(Carotid),30000
+Doppler U/S Scan(Umbilical Cord),30000
+Doppler U/S Scan(Arteries),30000
+Doppler U/S Scan(veins),30000
+Ultrasound Scan(3D),30000
+Ultrasound-guided Liver Biopsy,30000
+Ultrasound-guided peritoneal aspiration,30000
+Biophysical profile scan,30000
+Ultrasound Scan (Transrectal),30000
+Knee Ultrasound Scan(Each),20000
+Xray Ankle,35000
+Xray Cervical Spine,35000
+Xray Chest PA,35000
+Xray Chest AP,35000
+Xray Chest AP & Lateral,35000
+Xray Elbow,35000
+Xray Femur,35000
+Xray Foot,35000
+Xray Fore Arm,35000
+Xray Hand,35000
+Xray Hip,35000
+Xray Humerus,35000
+Xray Jaw,35000
+Xray Knee,35000
+Xray Lumber Sacral(AP/Lateral],50000
+Xray Lumber Spine,35000
+Xray Pelvis,35000
+Xray Post nasal space,35000
+Xray Shoulder,35000
+Xray Skull,35000
+Xray Thoracic Lumber,35000
+Xray Thoracic Spine,35000
+Xray Tibia & Fibula,35000
+Xray Wrist,35000
+Barium Enema,80000
+Barium Meal,100000
+Barium Meal and Follow Thru,120000
+Barium Swallow,80000
+Xray Paranasal Sinuses,50000
+Xray Mandible,45000
+Retrograde Pyelogram,50000
+XRay Abdomen(Erect),35000
+XRAY (Venography),45000
+CXR (Lateral),35000
+Intravenous Pyelogram(IVP),50000
+Xray Film Reprint,20000
+Xray (Mammogram),50000
+CT Brain Angiogram,1000000
+CT Myelogram,2000000
+CT Scan(Chest),500000
+CT Scan Multiphase Liver,500000
+CT Scan Abdomen & Pelvis,450000
+CT Scan Brain,300000
+CT Scan Brain with IV Contrast,500000
+CT Scan Cervical Spine,350000
+CT Scan Hip Joint,300000
+CT Scan Knee Joint,300000
+CT Scan Lumbar Spine,300000
+CT Scan Neck,300000
+CT Scan Orbits,300000
+CT Scan Para nasal Sinuses,300000
+CT Scan Pelvis,300000
+CT Scan Shoulder Joint,300000
+CT Scan Pituitary Fossa (Sellar Turcica),300000
+CT Scan Thoracic Spine,300000
+CT Scan Multiphase Pancreas,500000
+CT Scan Multiphase Kidney,500000
+CT Scan Angiography(Cerebral),1000000
+CT Scan Angiography(Abdomen),1000000
+CT Scan Angiography(Peripherals),1000000
+CT Scan Angiography(Chest),1000000
+CT Scan Angiography(Neck),1000000
+CT Scan Joints (Ankle),300000
+CT Scan Joints (TMJ),500000
+CT Scan Urologic (KUB),500000
+High resolution CT(HRCT) Lung,500000
+CT Scan Abdomen,300000
+CT Scan Ventricular Function,1000000
+CT Scan Coronary Angiogram,1000000
+CT Scan Cardiac Calcium Scoring,500000
+CT Scan Total Body scan,2500000
+CT Urography/KUB,500000
+CT Film reprint,30000
+MRI(Chest),500000
+MRI Multiphase Liver,500000
+MRI Abdomen & Pelvis,450000
+MRI Brain,300000
+MRI Brain with IV Contrast,500000
+MRI Cervical Spine,350000
+MRI Hip Joint,300000
+MRI Knee Joint,300000
+MRI Lumbar Spine,300000
+MRI Neck,300000
+MRI Orbits,300000
+MRI Para nasal Sinuses,300000
+MRI Pelvis,300000
+MRI Pituitary Fossa (Sellar Turcica),300000
+MRI Thoracic Spine,300000
+MRI Report,30000

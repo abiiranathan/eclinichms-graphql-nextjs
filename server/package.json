@@ -1,0 +1,36 @@
+{
+  "name": "eclinichms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "migrate": "sequelize db:migrate",
+    "undo": "sequelize db:migrate:undo",
+    "undoall": "sequelize db:migrate:undo:all",
+    "seed": "sequelize db:seed:all --debug",
+    "client": "npm run dev --prefix=../eclinic",
+    "gen-types": "npm run generate --prefix=../eclinic"
+  },
+  "keywords": [],
+  "author": "Abiira Nathan <nabiira2by2@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@graphql-tools/load-files": "^6.3.2",
+    "@graphql-tools/merge": "^6.2.14",
+    "apollo-server-express": "^2.25.2",
+    "bcrypt": "^5.0.1",
+    "csv-parser": "^3.0.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "graphql": "^15.5.1",
+    "graphql-date": "^1.0.3",
+    "humanize": "^0.0.9",
+    "jsonwebtoken": "^8.5.1",
+    "pg": "^8.6.0",
+    "sequelize": "^6.6.5",
+    "sequelize-cli": "^6.2.0",
+    "uuid": "^8.3.2"
+  }
+}

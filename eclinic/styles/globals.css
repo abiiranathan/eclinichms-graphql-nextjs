@@ -1,0 +1,135 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer base {
+  [type="text"],
+  [type="email"],
+  [type="url"],
+  [type="password"],
+  [type="number"],
+  [type="date"],
+  [type="datetime-local"],
+  [type="month"],
+  [type="search"],
+  [type="tel"],
+  [type="time"],
+  [type="week"],
+  [multiple],
+  textarea,
+  select {
+    @apply w-full border-gray-300 rounded-sm shadow-sm focus:border-indigo-500 focus:ring-indigo-500 px-2 py-1;
+  }
+}
+
+@layer components {
+  .btn {
+    @apply inline-block px-5 py-2 rounded-lg focus:outline-none focus:ring focus:ring-offset-2 font-normal border text-sm sm:text-base;
+  }
+
+  .btn-default {
+    @apply bg-white hover:bg-gray-100 text-gray-600 border-gray-400;
+  }
+
+  .btn-primary {
+    @apply bg-indigo-500 hover:bg-indigo-400 focus:ring-indigo-500 focus:ring-opacity-50 active:bg-indigo-600 text-white;
+  }
+
+  .btn-warning {
+    @apply bg-orange-500 hover:bg-orange-400 focus:ring-orange-500 focus:ring-opacity-50 active:bg-orange-600 text-white;
+  }
+
+  .btn-success {
+    @apply bg-green-500 hover:bg-green-400 focus:ring-green-500 focus:ring-opacity-50 active:bg-green-600 text-white;
+  }
+
+  .btn-danger {
+    @apply bg-red-500 hover:bg-red-400 focus:ring-red-500 focus:ring-opacity-50 active:bg-red-600 text-white;
+  }
+
+  .card-focused {
+    @apply scale-105 border-cyan-700 border ring-4 ring-cyan-800 ring-offset-2 focus:outline-none;
+  }
+
+  .menu-focus {
+    @apply focus:outline-none focus:border-red-500 focus:ring-4 focus:ring-red-400;
+  }
+}
+
+html {
+  height: 100%;
+  overflow-x: hidden;
+  width: 100vw;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  font-size: 0.8rem;
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+
+#layout {
+  max-width: 100vw;
+  overflow-y: auto;
+  overflow-x: auto;
+}
+
+main {
+  min-height: calc(100vh - 3rem);
+}
+
+@media screen and (max-width: 1000px) {
+  .responsive-table tr {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+  }
+
+  .responsive-table tr td:last-child {
+    grid-column: span 2;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .responsive-table tr {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+}
+
+#patient-table tbody tr:nth-child(even) {
+  @apply bg-gray-50;
+}
+
+input::placeholder,
+textarea::placeholder {
+  @apply text-gray-300 text-sm;
+}
+
+#medform .form-col {
+  border: 1px solid rgb(146, 143, 143);
+  padding: 1rem;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: aliceblue;
+}
+
+#medform .selected {
+  border-left: 10px solid rgb(73, 8, 8);
+}
+
+:disabled {
+  @apply opacity-50 text-gray-300;
+}
+
+:disabled svg {
+  @apply opacity-20;
+}
+
+.react-tabs__tab-panel--selected {
+  @apply p-3;
+}
+
+.react-tabs__tab-list {
+  margin: 0 !important;
+}

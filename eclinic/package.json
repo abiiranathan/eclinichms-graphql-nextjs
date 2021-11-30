@@ -1,0 +1,42 @@
+{
+  "name": "eclinic",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "download": "apollo schema:download --endpoint=http://localhost:4000/graphql",
+    "generate": "apollo codegen:generate --queries=./**/*.tsx  --target=typescript --outputFlat graphql/schema.ts --watch"
+  },
+  "resolutions": {
+    "graphql": "^15.5.1"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.4.1",
+    "@fontsource/poppins": "^4.5.0",
+    "@headlessui/react": "^1.4.0",
+    "@heroicons/react": "^1.0.3",
+    "@squoosh/cli": "^0.7.2",
+    "chart.js": "^3.5.0",
+    "graphql": "^15.5.1",
+    "next": "11.0.1",
+    "react": "17.0.2",
+    "react-alert": "^7.0.3",
+    "react-alert-template-basic": "^1.0.2",
+    "react-chartjs-2": "^3.0.4",
+    "react-dom": "17.0.2",
+    "react-tabs": "^3.2.2",
+    "sweetalert2": "^11.1.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.3.3",
+    "@types/react": "17.0.15",
+    "@types/react-alert": "^5.2.1",
+    "@types/react-tabs": "^2.3.3",
+    "autoprefixer": "^10.3.1",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.7",
+    "typescript": "4.3.5"
+  }
+}
